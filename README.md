@@ -1,4 +1,4 @@
-# TelegramInfoBot
+# TelegramCoorporateManager
 
 <p align="center">
   <b>Production-ready Telegram bot for employee directory from Excel</b>
@@ -16,7 +16,8 @@
 
 ## Описание
 
-**🚀 TelegramCoorporateManager** — Корпоративный Telegram-бот для сотрудников компании на Python 3.8 
+**🚀 TelegramCoorporateManager** — Корпоративный Telegram-бот для сотрудников компании на Python 3.8.
+
 Справочник сотрудников, структура компании, дни рождения, админ-панель, доступ по whitelist групп и тем.
 
 Бот подходит для компаний, где нужно быстро находить сотрудников по фамилии, отделу или ФИО, получать контактные данные, отправлять поздравления с днём рождения и ограничивать доступ только разрешённым группам, каналам и сотрудникам.
