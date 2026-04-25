@@ -270,17 +270,6 @@ systemd автоматически перезапускает.
 
 ---
 
-# 📸 Скриншоты
-Добавьте сюда:
-
-```md
-![Welcome](docs/welcome.jpg)
-![Employees](docs/employees.jpg)
-![Admin](docs/admin.jpg)
-```
-
----
-
 # 🔮 Roadmap
 - LDAP/AD интеграция
 - SSO
