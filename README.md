@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/aiogram-3.x-blueviolet" />
   <img src="https://img.shields.io/badge/aiogram--dialog-enabled-success" />
   <img src="https://img.shields.io/badge/systemd-ready-green" />
-  <img src="https://img.shields.io/badge/status-v1.0.0%20stable-brightgreen" />
+  <img src="https://img.shields.io/badge/status-v1.1.0%20stable-brightgreen" />
 </p>
 
 ---
