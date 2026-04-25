@@ -31,7 +31,6 @@
 ## Автор
 
 **Разработчик:** Andrey K.  
-**TG ID:** `5143422065`  
 **GitHub:** https://github.com/ander1k
 
 ---
