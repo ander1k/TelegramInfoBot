@@ -106,8 +106,8 @@
 Распакуйте архив:
 
 ```bash
-unzip TelegramInfoBot-v39-dialog-idle-reset.zip
-cd TelegramInfoBot
+unzip /opt/TelegramInfoBot.zip
+cd /opt/TelegramInfoBot
 ```
 
 Запустите установщик:
